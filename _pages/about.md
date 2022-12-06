@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a research engineer at A*STAR Singapore's [Social and Cognitive Computing Department](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing). 
+Hello! I'm Shantanu (or Shan for short). I work as a research engineer at A*STAR Singapore's [Social and Cognitive Computing Department](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing). 
 
 I'm interested in building AI models that, given environmental scenes or textual passages, can:
 1. 'Understand' and 'reason' on them with human-level capabilities to answer relevant questions in a **reliable** and **interpretable** manner.
