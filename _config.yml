@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Shantanu Jaiswal (Shan)"
-  avatar           : "profile.png"
-  bio              : "Research Engineer"
-  location         : "Singapore"
-  employer         : "A*STAR"
+  avatar           : "profile.jpg"
+  bio              : "Research Engineer (Social and Cognitive Computing Department)"
+  location         : 
+  employer         : "A*STAR Singapore"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GmGNq2MAAAAJ&hl=en"
   email            : "shantanu12jswl@gmail.com"
