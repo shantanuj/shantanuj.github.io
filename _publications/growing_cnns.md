@@ -2,7 +2,7 @@
 title: "What do CNNs gain by imitating the visual development of primate infants?"
 collection: publications
 permalink: /publication/growing_cnns
-excerpt: '[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255.pdf) [[Suppl.]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf) [[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)'
+excerpt: '[[Paper]](https://www.bmvc2020-conference.com/assets/papers/0196.pdf) [[Suppl.(zip)]](https://www.bmvc2020-conference.com/assets/supp/0196_supp.zip) [[Code]](https://github.com/shantanuj/Imitating-primate-infant-visual-development-CNNs) [[Abstract (Cogsci 2020)](https://www.cognitivesciencesociety.org/cogsci20/papers/0860/0860.pdf)'
 date: 2020-09-07
 venue: '31st British Machine Vision Conference (BMVC)'
 ---
