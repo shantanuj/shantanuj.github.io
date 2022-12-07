@@ -16,4 +16,4 @@ I'm specifically interested in building AI models that given environmental scene
 
 At A*STAR, I've been working on -- i) developing a **commonsense knowledge resource** for machine reading applications, and ii) integrating relevant **cognitive priors in computer vision** models to make them more effective on scene understanding tasks. 
 	
-To know more about my work, please have a look at the [Publications](/publications/) section. In case you would like to collaborate or have any questions / suggestions, please drop me an email.
+To know more, please have a look at the [Publications](/publications/) section. In case you would like to collaborate or have any questions / suggestions, please drop me an email.
