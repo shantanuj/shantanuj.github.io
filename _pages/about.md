@@ -18,4 +18,4 @@ At A*STAR, I've been working on -- i) developing a **commonsense knowledge resou
 	
 To know more, please have a look at the [Publications](/publications/) section. In case you would like to collaborate or have any questions / suggestions, please drop me an email.
 
-My CV is available [here](/CV/).
+My CV is available [here](/cv/).

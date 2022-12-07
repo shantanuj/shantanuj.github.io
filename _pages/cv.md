@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 <embed src="/files/CV_Shantanu_Jaiswal.pdf" type="application/pdf">
 
-My CV can also be downloaded [here](https://shantanuj.github.io/files/CV_Shantanu_Jaiswal.pdf). 
+My CV can be downloaded [here](https://shantanuj.github.io/files/CV_Shantanu_Jaiswal.pdf). 
