@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a research engineer at A*STAR Singapore's [Social and Cognitive Computing Department](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) working in the direction of cognitively-based AI. 
+Hello! I'm a research engineer at A*STAR Singapore's [Social and Cognitive Computing Department](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) working in the direction of cognitively-based AI. Previously, I obtained my undergraduate degree in Computer Engineering from Nanyang Technological University, Singapore.
 
 My research interest is to build AI models that can -- i) "reason" on scenes or passages with human-level capabilities and in a **reliable** and **interpretable** manner, and ii) **continually learn/update** their world knowledge through environmental experience and any task-level supervision.
 
