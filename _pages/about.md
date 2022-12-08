@@ -10,12 +10,14 @@ redirect_from:
 
 Hello! I'm a research engineer at A*STAR Singapore's [Social and Cognitive Computing Department](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) working in the direction of cognitively-inspired AI. 
 
-I'm specifically interested in building AI models that given environmental scenes or textual passages can:
-1. **"Understand"** and **"reason"** on them with human-level capabilities to answer relevant questions in a **reliable** and **interpretable** manner.
-2. **Continually learn or update** their world knowledge through given experience and any additional supervision. 
-
-At A*STAR, I've been working on -- i) developing a **commonsense knowledge resource** for machine reading applications, and ii) integrating relevant **cognitive priors in computer vision** models to make them more effective on scene understanding tasks. 
-	
-To know more, please have a look at the [Publications](/publications/) section. In case you would like to collaborate or have any questions / suggestions, please drop me an email.
+I'm interested in building AI models that can -- i) understand and reason on scenes or texts with human-level capabilities in a reliable and interpretable manner, and ii) continually learn or update their world knowledge through environmental experience and any further supervision. 
 
 My CV is available [here](/cv/).
+
+**Recent publications**
+Please see <u><a href="https://scholar.google.com/citations?user=GmGNq2MAAAAJ&hl=en">my Google Scholar profile</a></u> for a complete and up-to-date list.
+
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
