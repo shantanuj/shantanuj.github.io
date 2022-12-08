@@ -14,7 +14,7 @@ My research interest is to build AI models that can -- i) "reason" on scenes or 
 
 At A*STAR, I've specifically been working on -- i) developing a **commonsense knowledge resource** for machine reading applications, and ii) **functionally integrating relevant cognitive phenomena** into computer vision models to make them more effective on scene understanding tasks. 
 
-To know more, please have a look at the [Publications](/publications/) section. 
+To know more of my work along with my wonderful collaborators, please have a look at the [Publications](/publications/) section. 
 
 My CV is available [here](/cv/).
 
