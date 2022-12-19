@@ -17,9 +17,6 @@ At A*STAR, I specifically work on:
 1. Developing a **commonsense knowledge resource** for machine reading applications (advised by [Kenneth Kwok](https://www.researchgate.net/profile/Kenneth-Kwok-2) and [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)).
 2. **Functionally integrating relevant cognitive phenomena** to build more effective computer vision models for scene understanding tasks (advised by [Basura Fernando](https://basurafernando.github.io/) and [Cheston Tan](https://scholar.google.com/citations?user=Up0UYEYAAAAJ)).
 
-
-
-
 My CV is available [here](/cv/).
 
 <h2 style="clear: both;" id="papers">Selected Papers </h2>
