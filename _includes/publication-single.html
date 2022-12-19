@@ -26,8 +26,8 @@
           {{ link | markdownify | remove: '<p>' | remove: '</p>'}}
         {% endfor %}
       </p>
-	  <details style="margin-top: -1.2em;"><summary>Toggle for description</summary>
-	  <p>{{ publication.descript | markdownify | remove: '<p>' | remove: '</p>'}}</p></details>
+	  <details style="margin-top: -1.2em;"><summary>Description (toggle)</summary>
+	  <p style="background-color:#ebebf2">{{ publication.descript | markdownify | remove: '<p>' | remove: '</p>'}}</p></details>
     </div>
   </article>
 </div>
