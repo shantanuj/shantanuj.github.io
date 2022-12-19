@@ -9,7 +9,7 @@ papers:
       - "[[Suppl.]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
       - "[[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
     descript: "Introduces top-down attention to enable models to <i><b>'look again' and attend to salient objects or features</b></i> (at multiple levels of the hierarchy) based on task or contextual information. 
-               Also reduces entropy of output module activations and makes <i><b>co-activation b/w input and output channels (features) more selective </b></i>(analysis in supplemental)."
+               Also <b>reduces entropy of output activations</b> and makes <i><b>co-activation b/w input and output channels (features) more selective </b></i>(analysis in supplemental)."
     
   - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
     authors: "Shantanu Jaiswal, Liu Yan, Dongkyu Choi, Kenneth Kwok"
