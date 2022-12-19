@@ -19,7 +19,7 @@
       <h3 class="publication__item-title" itemprop="headline">
         {{ publication.title | markdownify }}
       </h3>
-      <p style="margin-top: -1em;">{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+      <p>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>'}}</p>
       <p style="margin-top: -1.5em;">{{ publication.venue | markdownify | remove: '<p>' | remove: '</p>'}}</p>
       <p style="margin-top: -1.5em;">
         {% for link in publication.links %}
