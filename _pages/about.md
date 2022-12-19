@@ -15,7 +15,7 @@ I specifically work on:
 
 My research interest is in building AI models that can -- (i) reason with **human-level** capabilities in a **reliable** and **interpretable** manner and (ii) **continually learn or update** their world knowledge through experience and any additional task-level supervision.
 
-Broadly, the motive is to contribute towards a blueprint for building more intelligent and reliable AI and that is informed by cognitive science and complementary to machine learning developments. 
+Broadly, the motive is to contribute towards a blueprint for building more intelligent and reliable AI that is informed by cognitive science and complementary to machine learning developments. 
 
 
 My CV is available [here](/cv/).
