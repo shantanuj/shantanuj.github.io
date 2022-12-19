@@ -23,6 +23,10 @@ My CV is available [here](/cv/).
   {% include publication-single.html %}
 {% endfor %}
 
+<h2 style="clear: both; margin-top:1em;" id="techproj">Technical Projects/Reports</h2>
+{% for publication in site.data.publications.techprojects%}
+  {% include publication-single.html %}
+{% endfor %}
 
 
 
