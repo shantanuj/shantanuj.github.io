@@ -18,11 +18,15 @@ At A*STAR, I have specifically been working on:
 My CV is available [here](/cv/).
 
 <h2 style="clear: both;" id="papers">Selected Papers </h2>
-<p>Please see <u><a href="https://scholar.google.com/citations?user=GmGNq2MAAAAJ&hl=en">my Google Scholar profile</a></u> for a complete list.</p>
+<p>Please see <a href="https://scholar.google.com/citations?user=GmGNq2MAAAAJ&hl=en">my Google Scholar profile</a> for a complete list.</p>
 {% for publication in site.data.publications.papers%}
   {% include publication-single.html %}
 {% endfor %}
 
+<h2 style="clear: both;" id="papers">Technical Projects </h2>
+{% for publication in site.data.publications.techprojects%}
+  {% include publication-single.html %}
+{% endfor %}
 
 
 

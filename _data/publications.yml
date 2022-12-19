@@ -26,3 +26,18 @@ papers:
       - "[[Suppl.(zip)]](https://www.bmvc2020-conference.com/assets/supp/0196_supp.zip)"
       - "[[Code]](https://github.com/shantanuj/Imitating-primate-infant-visual-development-CNNs)"
       - "[[Abstract (Cogsci 2020)]](https://www.cognitivesciencesociety.org/cogsci20/papers/0860/0860.pdf)"
+
+techprojects:
+  - title: "Domain adaptation techniques for aspect-based sentiment analysis"
+    authors: "Shantanu Jaiswal (Final year undergraduate project)"
+    teaser: da_fgs.png
+    links:
+      - "[[Report]](https://dr.ntu.edu.sg/handle/10356/74089)"
+      - "[[Code]](https://github.com/shantanuj/Fine_Grained_Sen_Extraction)"
+      
+  - title: "FakeNet: A Framework to Detect and Analyze Fake News"
+    authors: "Shantanu Jaiswal, Abhay Nainan, Jacob Sunny, Sharique Zaman"
+    teaser: stance_project.png
+    links:
+      - "[[Report]](https://shantanuj.github.io/files/FakeNet_report.pdf)"
+      - "[[Code]](https://github.com/shantanuj/Fake_Net)"
