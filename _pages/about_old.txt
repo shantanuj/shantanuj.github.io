@@ -10,14 +10,11 @@ redirect_from:
 
 Hello! I am a research engineer at A*STAR Singapore's [Social and Cognitive Computing Department](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) working in the direction of cognitively-based AI. 
 
-I specifically work in the areas of commonsense knowledge representation and reasoning (with [Kenneth Kwok](https://www.researchgate.net/profile/Kenneth-Kwok-2) and [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)) and scene understanding (with [Basura Fernando](https://basurafernando.github.io/) and [Cheston Tan](https://scholar.google.com/citations?user=Up0UYEYAAAAJ)).
+My research interest is in building AI models that can -- (i) reason with **human-level** capabilities in a **reliable** and **interpretable** manner and (ii) **continually learn or update** their world knowledge through experience and any additional task-level supervision.
 
-A common theme of my research is to:
-1. Identify a cognitive capability or functionality observed in humans and of relevance to building more effective AI.
-2. Integrate the identified capability in existing AI methods through proposing new (or modifying existing) computational blocks/operations, training methods and learning resources.
-3. Demonstrate the integrated capability on relevant tasks and benchmarks (and with multiple backbone AI architectrures where applicable).
-
-The motive is to contribute towards a blueprint for building more intelligent and reliable AI that is informed by cognitive science and complementary to machine learning developments. 
+At A*STAR, I have specifically been working on:
+1. Developing a **commonsense knowledge resource** for machine reading applications (advised by [Kenneth Kwok](https://www.researchgate.net/profile/Kenneth-Kwok-2) and [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)).
+2. **Functionally integrating relevant cognitive phenomena** to build more effective computer vision models for scene understanding tasks (advised by [Basura Fernando](https://basurafernando.github.io/) and [Cheston Tan](https://scholar.google.com/citations?user=Up0UYEYAAAAJ)).
 
 To know more of the work I've done along with my wonderful collaborators, please have a look at the [Publications](/publications/) section. 
 

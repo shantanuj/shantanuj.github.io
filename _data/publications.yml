@@ -1,0 +1,11 @@
+# Papers list on home page
+papers:
+  - title: "TDAM: Top-Down Attention Module for Contextually-Guided Feature Selection in CNNs"
+    authors: "Shantanu Jaiswal, Basura Fernando, Cheston Tan"
+    venue: "In *European Conference on Computer Vision (ECCV)*, 2022."
+    teaser: tdam_teaser.png
+    links:
+      - "[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255.pdf)"
+      - "[Suppl.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
+      - "[Code](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
+ 
