@@ -12,7 +12,7 @@ papers:
   - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
     authors: "Shantanu Jaiswal, Liu Yan, Dongkyu Choi, Kenneth Kwok"
     venue: "*arXiv preprint*, 2022."
-    teaser: pckr_teaser.png
+    teaser: pckr_teaser_2.png
     links:
       - "[[Paper]](https://arxiv.org/abs/2211.16822)"
       - "[Code & data pending agency approval]"
@@ -20,7 +20,7 @@ papers:
   - title: "What do CNNs gain by imitating the visual development of primate infants?"
     authors: "Shantanu Jaiswal, Dongkyu Choi, Basura Fernando"
     venue: "In *British Machine Vision Conference (BMVC)*, 2020."
-    teaser: growth_cnns_teaser.png
+    teaser: growth_cnns_teaser2.png
     links:
       - "[[Paper]](https://www.bmvc2020-conference.com/assets/papers/0196.pdf)"
       - "[[Suppl.(zip)]](https://www.bmvc2020-conference.com/assets/supp/0196_supp.zip)"
