@@ -9,7 +9,7 @@ papers:
       - "[[Suppl.]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
       - "[[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
     descript: "Introduces top-down attention to enable models to <i><b>'look again' and attend to salient objects or features</b></i> (at multiple levels of the hierarchy) based on task or contextual information. 
-               Also, the module <b>reduces entropy of output activations</b> and makes <i><b>co-activation b/w input and output channels (features) more selective </b></i>(analysis in supplemental)."
+               Also, makes models <i><b>more robust to changes in input resolution</b></i> and <i><b>reduces entropy of output activations </b></i>(indicating enhanced feature selectivity; analysis in supplemental)."
     
   - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
     authors: "Shantanu Jaiswal, Liu Yan, Dongkyu Choi, Kenneth Kwok"
@@ -18,7 +18,7 @@ papers:
     links:
       - "[[Paper]](https://arxiv.org/abs/2211.16822)"
       - "[Code & data pending agency approval]"
-    descript: "Introduces a probabilistic-logic based representation scheme to represent world knowledge with <i><b>different 'certainty levels'</b></i> and perform <i><b>context-dependent non-monotonic inferences</b></i> (wherein likelihoods and inferences can change with newly provided contextual/situational knowledge)."
+    descript: "Introduces a probabilistic-logic based representation scheme to represent world knowledge with <i><b>different 'certainty levels'</b></i> and perform <i><b>context-dependent non-monotonic inferences</b></i> (wherein likelihoods and/or inferences can change with newly provided contextual/situational knowledge)."
   
   - title: "What do CNNs gain by imitating the visual development of primate infants?"
     authors: "Shantanu Jaiswal, Dongkyu Choi, Basura Fernando"
