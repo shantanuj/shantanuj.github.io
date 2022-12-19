@@ -5,6 +5,24 @@ papers:
     venue: "In *European Conference on Computer Vision (ECCV)*, 2022."
     teaser: tdam_teaser.png
     links:
-      - "[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255.pdf)"
-      - "[Suppl.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
-      - "[Code](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
+      - "[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255.pdf)"
+      - "[[Suppl.]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
+      - "[[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
+      
+  - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
+    authors: "Shantanu Jaiswal, Liu Yan, Dongkyu Choi, Kenneth Kwok"
+    venue: "*arXiv preprint*, 2022."
+    teaser: pckr_teaser.png
+    links:
+      - "[[Paper]](https://arxiv.org/abs/2211.16822)"
+      - "[Code & data pending agency approval]"
+ 
+  - title: "What do CNNs gain by imitating the visual development of primate infants?"
+    authors: "Shantanu Jaiswal, Dongkyu Choi, Basura Fernando"
+    venue: "In *British Machine Vision Conference (BMVC)*, 2020."
+    teaser: growth_cnns_teaser.png
+    links:
+      - "[[Paper]](https://www.bmvc2020-conference.com/assets/papers/0196.pdf)"
+      - "[[Suppl.(zip)]](https://www.bmvc2020-conference.com/assets/supp/0196_supp.zip)"
+      - "[[Code]](https://github.com/shantanuj/Imitating-primate-infant-visual-development-CNNs)"
+      - "[[Abstract (Cogsci 2020)]](https://www.cognitivesciencesociety.org/cogsci20/papers/0860/0860.pdf)"
