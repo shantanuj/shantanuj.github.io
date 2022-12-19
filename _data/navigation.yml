@@ -2,8 +2,7 @@
 main:
   - title: "Publications"
     url: /#papers
-  - title: "Tech Reports"
-    url: /#techproj
+    
   - title: "CV"
     url: /cv/
     
