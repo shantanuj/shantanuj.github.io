@@ -8,7 +8,8 @@ papers:
       - "[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255.pdf)"
       - "[[Suppl.]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
       - "[[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
-      
+    descript: "Introduces top-down attention to enable models to 'look again' (at multiple levels of the hierarchy) and attend to salient features based on task or contextual information."
+    
   - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
     authors: "Shantanu Jaiswal, Liu Yan, Dongkyu Choi, Kenneth Kwok"
     venue: "*arXiv preprint*, 2022."
@@ -16,6 +17,7 @@ papers:
     links:
       - "[[Paper]](https://arxiv.org/abs/2211.16822)"
       - "[Code & data pending agency approval]"
+    descript: "Introduces a probabilistic-logic based representation scheme to represent world knowledge with different 'certainty levels' and perform context-dependent and non-monotonic inferences (likelihoods can change with new context/situational knowledge)."
  
   - title: "What do CNNs gain by imitating the visual development of primate infants?"
     authors: "Shantanu Jaiswal, Dongkyu Choi, Basura Fernando"
@@ -26,7 +28,8 @@ papers:
       - "[[Suppl.(zip)]](https://www.bmvc2020-conference.com/assets/supp/0196_supp.zip)"
       - "[[Code]](https://github.com/shantanuj/Imitating-primate-infant-visual-development-CNNs)"
       - "[[Abstract (Cogsci 2020)]](https://www.cognitivesciencesociety.org/cogsci20/papers/0860/0860.pdf)"
-
+    descript: "Analyses a growth-based training strategy wherein models are grown and inputs are gradually refined over course of training (potentially allowing 'coarse global' patterns to be identified first and then 'finer' ones."
+ 
 techprojects:
   - title: "Domain adaptation techniques for aspect-based sentiment analysis"
     authors: "Shantanu Jaiswal (Final year undergraduate project)"

@@ -26,6 +26,7 @@
           {{ link | markdownify | remove: '<p>' | remove: '</p>'}}
         {% endfor %}
       </p>
+	  <p style="margin-top: -1.2em;">{{ publication.descript | markdownify | remove: '<p>' | remove: '</p>'}}</p>
     </div>
   </article>
 </div>
