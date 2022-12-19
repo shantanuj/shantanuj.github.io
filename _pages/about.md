@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h2> About me </h2>
+<h2 style="margin-top:0;"> About me </h2>
 Hello! I am a research engineer at A*STAR Singapore's [Social and Cognitive Computing Department](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) working in the direction of cognitively-based AI. 
 
 My research interest is in building AI models that can -- (i) reason with **human-level** capabilities in a **reliable** and **interpretable** manner and (ii) **continually learn or update** their world knowledge through experience and any additional task-level supervision.
