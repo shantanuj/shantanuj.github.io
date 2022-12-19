@@ -8,7 +8,7 @@ papers:
       - "[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255.pdf)"
       - "[[Suppl.]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
       - "[[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
-    descript: "Introduces top-down attention to enable models to <b>'look again' and attend to salient objects or features</b> (at multiple levels of the hierarchy) based on task or contextual information. Also reduces entropy of output activations and makes channel <b>co-activation b/w input and outputs more selective </b>(analysis in supplemental)."
+    descript: "Introduces top-down attention to enable models to <i><b>'look again' and attend to salient objects or features</b></i> (at multiple levels of the hierarchy) based on task or contextual information. Also reduces entropy of output activations and makes channel <i><b>co-activation b/w input and outputs more selective </b></i>(analysis in supplemental)."
     
   - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
     authors: "Shantanu Jaiswal, Liu Yan, Dongkyu Choi, Kenneth Kwok"
@@ -17,7 +17,7 @@ papers:
     links:
       - "[[Paper]](https://arxiv.org/abs/2211.16822)"
       - "[Code & data pending agency approval]"
-    descript: "Introduces a probabilistic-logic based representation scheme to represent world knowledge with <b>different 'certainty levels'</b> and perform <b>context-dependent non-monotonic inferences</b> (wherein likelihoods can change with new context/situational knowledge)."
+    descript: "Introduces a probabilistic-logic based representation scheme to represent world knowledge with <i><b>different 'certainty levels'</b></i> and perform <i><b>context-dependent non-monotonic inferences</b></i> (wherein likelihoods can change with new contextual/situational knowledge)."
  
   - title: "What do CNNs gain by imitating the visual development of primate infants?"
     authors: "Shantanu Jaiswal, Dongkyu Choi, Basura Fernando"
@@ -28,7 +28,7 @@ papers:
       - "[[Suppl.]](https://shantanuj.github.io/files/bmvc_supplemental.pdf)"
       - "[[Code]](https://github.com/shantanuj/Imitating-primate-infant-visual-development-CNNs)"
       - "[[Abstract (Cogsci 2020)]](https://www.cognitivesciencesociety.org/cogsci20/papers/0860/0860.pdf)"
-    descript: "Analyses a <b>growth-based training strategy</b> wherein models are grown and inputs are gradually refined over course of training (potentially allowing 'coarse global' patterns to be identified first and then 'finer' ones; visualization of induced filters during training in supplemental)."
+    descript: "Analyses a <i><b>growth-based training strategy</b></i> wherein models are grown and inputs are gradually refined over course of training (potentially allowing <i><b>'coarse global' patterns to be identified first</b></i> and then 'finer' ones; visualization of induced filters during training in supplemental)."
  
 techprojects:
   - title: "Domain adaptation techniques for aspect-based sentiment analysis"

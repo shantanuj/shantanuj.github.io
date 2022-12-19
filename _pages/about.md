@@ -13,8 +13,9 @@ I specifically work on:
 1. Developing a **commonsense knowledge resource** for machine reading applications (advised by [Kenneth Kwok](https://www.researchgate.net/profile/Kenneth-Kwok-2) and [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)).
 2. **Functionally integrating relevant cognitive phenomena** to build more effective computer vision models for scene understanding tasks (advised by [Basura Fernando](https://basurafernando.github.io/) and [Cheston Tan](https://scholar.google.com/citations?user=Up0UYEYAAAAJ)).
 
-A common theme of my research is to -- (i) identify cognitive capabilities/functionalities relevant to more effective AI, (ii) integrate the capabilities through new computational operations or learning resources, and (iii) demonstrate benefit of integrated capabilities on relevant tasks, benchmarks or applications. 
-The broad motive is to contribute towards a blueprint for building **more intelligent and reliable AI** that is informed by cognitive science and complementary to machine learning developments. 
+My research interest is in building AI models that can -- (i) reason with **human-level** capabilities in a **reliable** and **interpretable** manner and (ii) **continually learn or update** their world knowledge through experience and any additional task-level supervision.
+Broadly, the motive is to contribute towards a blueprint for building more intelligent and reliable AI that is informed by cognitive science and complementary to machine learning developments. 
+
 
 My CV is available [here](/cv/).
 
@@ -23,10 +24,3 @@ My CV is available [here](/cv/).
 {% for publication in site.data.publications.papers%}
   {% include publication-single.html %}
 {% endfor %}
-
-
-
-
-
-
-
