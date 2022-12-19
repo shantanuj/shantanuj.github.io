@@ -18,7 +18,7 @@ papers:
     links:
       - "[[Paper]](https://arxiv.org/abs/2211.16822)"
       - "[Code & data pending agency approval]"
-    descript: "Introduces a probabilistic-logic based representation scheme to represent world knowledge with <i><b>different 'certainty levels'</b></i> and perform <i><b>context-dependent non-monotonic inferences</b></i> (wherein likelihoods can change with new contextual/situational knowledge)."
+    descript: "Introduces a probabilistic-logic based representation scheme to represent world knowledge with <i><b>different 'certainty levels'</b></i> and perform <i><b>context-dependent non-monotonic inferences</b></i> (wherein likelihoods and inferences can change with newly provided contextual/situational knowledge)."
   
   - title: "What do CNNs gain by imitating the visual development of primate infants?"
     authors: "Shantanu Jaiswal, Dongkyu Choi, Basura Fernando"
