@@ -12,7 +12,6 @@ Hello! I am a research engineer at A*STAR Singapore's [Social and Cognitive Comp
 
 I specifically work in the areas of commonsense knowledge representation and reasoning (with [Kenneth Kwok](https://www.researchgate.net/profile/Kenneth-Kwok-2) and [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)) and scene understanding (with [Basura Fernando](https://basurafernando.github.io/) and [Cheston Tan](https://scholar.google.com/citations?user=Up0UYEYAAAAJ)).
 
-<div><h1>Research</h1></div>
 A common theme of my research is to:
 1. Identify a cognitive capability or functionality observed in humans and of relevance to building more effective AI.
 2. Integrate the identified capability in existing AI methods through proposing new (or modifying existing) computational blocks/operations, training methods and learning resources.
