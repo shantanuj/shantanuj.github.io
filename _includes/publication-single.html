@@ -27,7 +27,7 @@
         {% endfor %}
       </p>
 	  <details style="margin-top: -1.2em;"><summary>Description (click to show)</summary>
-	  <p style="background-color:#ebebf2">{{ publication.descript | markdownify | remove: '<p>' | remove: '</p>'}}</p></details>
+	  <div style="background-color:#ebebf2; margin-top:-0.5em;">{{ publication.descript | markdownify | remove: '<p>' | remove: '</p>'}}</div></details>
     </div>
   </article>
 </div>
