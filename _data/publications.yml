@@ -31,7 +31,7 @@ papers:
       - "[[Code]](https://github.com/shantanuj/Imitating-primate-infant-visual-development-CNNs)"
       - "[[Abstract (Cogsci 2020)]](https://www.cognitivesciencesociety.org/cogsci20/papers/0860/0860.pdf)"
     descript: "<ol style='margin-left:-1em;'><li>Analyses a <i><b>growth-based training strategy</b></i> wherein models are grown and inputs are gradually refined over course of training. </li>
-                   <li>Growth-based training potentially allows <i><b>'coarse global' patterns</b></i> to be identified first and then <i><b>'finer' ones</b></i> later in a <b><i>more hierarchical</b></i> manner (visualization of induced filters during training in supplemental).</li></ol>"
+                   <li>Growth-based training potentially allows <i><b>'coarse global' patterns</b></i> to be identified first and then <i><b>'finer' ones</b></i> later in a <i><b>more hierarchical</b></i> manner (visualization of induced filters during training in supplemental).</li></ol>"
     
 techprojects:
   - title: "Domain adaptation techniques for aspect-based sentiment analysis"
