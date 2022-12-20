@@ -12,8 +12,8 @@ Hello! I am a research engineer at A*STAR Singapore's [Social and Cognitive Comp
 Broadly, my research motive is to contribute towards a blueprint for building **more intelligent and reliable AI with human-level capabilities** that is informed by cognitive science and complementary to machine learning developments. 
 
 At A*STAR, I specifically work on:
-1. Developing a **commonsense knowledge resource** for machine reading applications (advised by [Kenneth Kwok](https://www.researchgate.net/profile/Kenneth-Kwok-2) and [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)).
-2. **Functionally integrating relevant cognitive phenomena** to build more effective computer vision techniques for scene understanding and reasoning tasks (advised by [Basura Fernando](https://basurafernando.github.io/) and [Cheston Tan](https://scholar.google.com/citations?user=Up0UYEYAAAAJ)).
+1. Developing a **commonsense knowledge resource** for machine reading applications (with [Kenneth Kwok](https://www.researchgate.net/profile/Kenneth-Kwok-2) and [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)).
+2. **Functionally integrating relevant cognitive phenomena** to build more effective computer vision techniques for scene understanding and reasoning tasks (with [Basura Fernando](https://basurafernando.github.io/) and [Cheston Tan](https://scholar.google.com/citations?user=Up0UYEYAAAAJ)).
 
 My CV is available [here](/cv/).
 
