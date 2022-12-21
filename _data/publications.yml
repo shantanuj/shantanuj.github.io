@@ -8,7 +8,7 @@ papers:
       - "[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255.pdf)"
       - "[[Suppl.]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
       - "[[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
-    descript: "<ol style='margin-left:-1em;'><li>Introduces top-down attention to enable models to <i><b>'look again' and attend to salient objects or features</b></i> (at multiple levels of the hierarchy) based on task or contextual information.</li> 
+    descript: "<ol style='margin-left:-1em;'><li>Introduces top-down attention to enable models to <i><b>'look again' and attend to salient objects or features</b></i> (across multiple levels of the hierarchy) based on higher-level features that contain relatively semantically-richer task or contextual information.</li> 
                <li>Improves performance on <i><b>multiple tasks</b></i> for <i><b>various architecture types</b></i> with few additional parameters and memory consumption.</li>
                <li>Also, makes models <i><b>more robust to changes in input resolution</b></i> and <i><b>reduces entropy of output activations </b></i>(indicating enhanced feature selectivity; entropy and feature co-activation analysis in supplemental).</li></ol>"
     
