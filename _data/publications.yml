@@ -8,7 +8,8 @@ papers:
       - "[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255.pdf)"
       - "[[Suppl.]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
       - "[[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
-    descript: "<ol style='margin-left:-1em;'><li>Introduces top-down attention to enable models to <i><b>'look again' and attend to salient objects or features</b></i> (at multiple levels of the hierarchy) based on task or contextual information. Improves performance on <i><b>multiple tasks</b></i> for <i><b>various architecture types</b></i> with few additional parameters.</li>
+    descript: "<ol style='margin-left:-1em;'><li>Introduces top-down attention to enable models to <i><b>'look again' and attend to salient objects or features</b></i> (at multiple levels of the hierarchy) based on task or contextual information.</li> 
+               <li>Improves performance on <i><b>multiple tasks</b></i> for <i><b>various architecture types</b></i> with few additional parameters and memory consumption.</li>
                <li>Also, makes models <i><b>more robust to changes in input resolution</b></i> and <i><b>reduces entropy of output activations </b></i>(indicating enhanced feature selectivity; entropy and feature co-activation analysis in supplemental).</li></ol>"
     
   - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
@@ -18,8 +19,10 @@ papers:
     links:
       - "[[Paper]](https://arxiv.org/abs/2211.16822)"
       - "[Code & data pending agency approval]"
-    descript: "<ol style='margin-left:-1em;'><li>Introduces a probabilistic-logic based representation scheme to represent world knowledge with <i><b>different 'certainty levels'</b></i> and perform <i><b>context-dependent non-monotonic inferences</b></i> (wherein likelihoods and/or inferences can change with newly provided contextual/situational knowledge). </li>
-                  <li>Also, introduces a <b>hierarchical conceptual ontology</b> to structure knowledge and incrementally increase semantic coverage through addition of <i><b>concept specific knowledge and relations</b></i>.</li></ol>"
+    descript: "<ol style='margin-left:-1em;'><li>Introduces a probabilistic-logic based representation scheme to encode world knowledge with <i><b>different 'certainty levels'</b></i> and perform <i><b>context-dependent non-monotonic inferences</b></i> (wherein likelihoods and/or inferences can change with newly provided contextual/situational knowledge). </li>
+                  <li>Also, introduces a <i><b>hierarchical conceptual ontology</b></i> to structure knowledge and incrementally increase semantic coverage through addition of <i><b>concept specific knowledge and relations</b></i>.</li>
+                  <li>Demonstrates application of encoded knowledge for <i><b>more interpretable</b></i> (but rule-based and domain limited) passage-based <i><b>semantic parsing and question answering</b></i>.</li> 
+                  </ol>"
   
   - title: "What do CNNs gain by imitating the visual development of primate infants?"
     authors: "Shantanu Jaiswal, Dongkyu Choi, Basura Fernando"
@@ -30,8 +33,9 @@ papers:
       - "[[Suppl.]](https://shantanuj.github.io/files/bmvc_supplemental.pdf)"
       - "[[Code]](https://github.com/shantanuj/Imitating-primate-infant-visual-development-CNNs)"
       - "[[Abstract (Cogsci 2020)]](https://www.cognitivesciencesociety.org/cogsci20/papers/0860/0860.pdf)"
-    descript: "<ol style='margin-left:-1em;'><li>Analyses a <i><b>growth-based training strategy</b></i> wherein models are grown and inputs are gradually refined over course of training. Growth strategy results in higher performance (on object recognition) with <i><b>faster training speed</b></i> compared to traditional static training approaches.</li>
-                   <li>Growth-based training potentially allows <i><b>'coarse global' patterns</b></i> to be identified first and then <i><b>'finer' ones</b></i> later in a <i><b>more hierarchical</b></i> manner (visualization of induced filters during training in supplemental).</li></ol>"
+    descript: "<ol style='margin-left:-1em;'><li>Analyses a <i><b>growth-based training strategy</b></i> wherein models are grown and inputs are gradually refined over course of training.</li>
+                   <li>Growth-based training results in <i><b>higher performance</b></i> (on object recognition) with <i><b>faster training speed</b></i> compared to traditional static training approaches.</li>
+                   <li>Growth strategy potentially allows <i><b>'coarse global' patterns</b></i> to be identified first and then <i><b>'finer' ones</b></i> later in a <i><b>more hierarchical</b></i> manner (visualization of induced filters during training in supplemental).</li></ol>"
     
 techprojects:
   - title: "Domain adaptation techniques for aspect-based sentiment analysis"
