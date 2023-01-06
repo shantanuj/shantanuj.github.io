@@ -9,7 +9,7 @@ redirect_from:
 <h2 style="margin-top:0;"> About me </h2>
 Hello! I am a research engineer at A*STAR Singapore's [Social and Cognitive Computing Department](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) working in the direction of cognitively-based AI. 
 
-Broadly, my research motive is to contribute towards building **more intelligent and reliable AI with human-level reasoning and learning capabilities** by taking insights from cognitive science to design appropriate computational operations/blocks, training methods and learning resources. 
+Broadly, my research motive is to contribute towards building **more intelligent and reliable AI with human-level reasoning and learning capabilities.** My approach has been to draw insights from cognitive science in designing appropriate computational operations/blocks, training methods and learning resources. 
 
 At A*STAR, I specifically work on:
 1. Developing a **commonsense knowledge resource** for machine reading and language understanding tasks (with [Kenneth Kwok](https://www.researchgate.net/profile/Kenneth-Kwok-2) and [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)).
