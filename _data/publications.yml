@@ -9,8 +9,8 @@ papers:
       - "[[Suppl.]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
       - "[[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
     descript: "<ol style='margin-left:-1em;'><li>Introduces a top-down attention formulation to enable models to <i><b>'look again' and attend to salient objects or features</b></i> (across multiple levels of a model's hierarchy) based on higher-level activations that contain relatively semantically-richer task or contextual information.</li> 
-               <li>Improves performance on <i><b>multiple tasks</b></i> for <i><b>various architecture types</b></i> with few additional parameters and memory consumption.</li>
-               <li>Also, makes models <i><b>more robust to changes in input resolution</b></i> and <i><b>reduces entropy of output activations </b></i>(indicating enhanced feature selectivity; entropy and top-bottom feature co-activation analysis in supplemental).</li></ol>"
+               <li>Improves performance on <i><b>multiple tasks</b></i> (in object recognition and localization) for <i><b>various architecture types</b></i> with few additional parameters and memory consumption.</li>
+               <li>Also, makes models <i><b>more robust to changes in input resolution</b></i> and <i><b>reduces entropy of output activations </b></i>(suggesting enhanced feature selectivity; entropy and top-bottom feature co-activation analysis in supplemental).</li></ol>"
     
   - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
     authors: "Shantanu Jaiswal, Liu Yan, Dongkyu Choi, Kenneth Kwok"
@@ -20,7 +20,7 @@ papers:
       - "[[Paper]](https://arxiv.org/abs/2211.16822)"
       - "[Code & data pending agency approval]"
     descript: "<ol style='margin-left:-1em;'><li>Introduces a probabilistic-logic based representation scheme to encode world knowledge with <i><b>different 'certainty levels'</b></i> and perform <i><b>context-dependent non-monotonic inferences</b></i> (wherein likelihoods and/or inferences can change with newly provided contextual/situational knowledge). </li>
-                  <li>Also, introduces a <i><b>hierarchical conceptual ontology</b></i> to structure knowledge and incrementally increase semantic coverage through addition of <i><b>concept specific knowledge and relations</b></i>.</li>
+                  <li>Also, introduces a <i><b>hierarchical conceptual ontology</b></i> to structure knowledge and incrementally increase semantic coverage through addition of <i><b>concept-specific knowledge and relations</b></i>.</li>
                   <li>Demonstrates application of encoded knowledge for <i><b>more interpretable</b></i> passage-based <i><b>semantic parsing and question answering</b></i>.</li> 
                   </ol>"
   
