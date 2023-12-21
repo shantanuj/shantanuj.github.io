@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <h2 style="margin-top:0;"> About me </h2>
-Hello! I am a researcher at A*STAR Singapore's [Center for Frontier AI Research](https://www.a-star.edu.sg/cfar) working in the direction of cognitively-based AI. 
+Hello! I am a researcher at A*STAR Singapore's [Center for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar). 
 
 Broadly, my research interests are at the intersection of artificial intelligence and cognitive science, and the development of **more intelligent and reliable AI with human-level reasoning and learning capabilities**. At A*STAR, I have specifically been exploring the design of more effective scene understanding and reasoning methods by combining insights from relevant cognitive phenomena with machine learning techniques.
 
