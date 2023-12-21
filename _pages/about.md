@@ -7,13 +7,9 @@ redirect_from:
   - /about.html
 ---
 <h2 style="margin-top:0;"> About me </h2>
-Hello! I am a research engineer at A*STAR Singapore's [Social and Cognitive Computing Department](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) working in the direction of cognitively-based AI. 
+Hello! I am a researcher at A*STAR Singapore's [Center for Frontier AI Research](https://www.a-star.edu.sg/cfar) working in the direction of cognitively-based AI. 
 
-Broadly, my research interests are at the intersection of artificial intelligence and cognitive science, and the development of **more intelligent and reliable AI with human-level reasoning and learning capabilities**. 
-
-At A*STAR, I have specifically worked on:
-1. Developing a **commonsense knowledge resource** for machine reading and language understanding tasks (with [Kenneth Kwok](https://www.researchgate.net/profile/Kenneth-Kwok-2) and [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)).
-2. **Functionally integrating relevant cognitive phenomena** to build more effective computer vision techniques for scene understanding and reasoning tasks (with [Basura Fernando](https://basurafernando.github.io/) and [Cheston Tan](https://scholar.google.com/citations?user=Up0UYEYAAAAJ)).
+Broadly, my research interests are at the intersection of artificial intelligence and cognitive science, and the development of **more intelligent and reliable AI with human-level reasoning and learning capabilities**. At A*STAR, I have specifically been exploring the design of more effective scene understanding and reasoning methods by combining insights from relevant cognitive phenomena with machine learning techniques.
 
 My CV is available [here](/cv/).
 
