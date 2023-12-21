@@ -40,15 +40,11 @@ papers:
 techprojects:
     - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
     authors: "Shantanu Jaiswal, Liu Yan, Dongkyu Choi, Kenneth Kwok"
-    venue: "*arXiv preprint*, 2022."
     teaser: pckr_teaser_2.png
     links:
       - "[[Paper]](https://arxiv.org/abs/2211.16822)"
       - "[Code & data pending agency approval]"
-    descript: "<ol style='margin-left:-1em;'><li>Introduces a probabilistic-logic based representation scheme to encode world knowledge with <i><b>different 'certainty levels'</b></i> and perform <i><b>context-dependent non-monotonic inferences</b></i> (wherein likelihoods and/or inferences can change with newly provided contextual/situational knowledge). </li>
-                  <li>Also, introduces a <i><b>hierarchical conceptual ontology</b></i> to structure knowledge and incrementally increase semantic coverage through addition of <i><b>concept-specific knowledge and relations</b></i>.</li>
-                  <li>Demonstrates application of encoded knowledge for <i><b>more interpretable</b></i> passage-based <i><b>semantic parsing and question answering</b></i>.</li> 
-                  </ol>"
+    
   - title: "Domain adaptation techniques for aspect-based sentiment analysis"
     authors: "Shantanu Jaiswal (Final year undergraduate project)"
     teaser: da_fgs.png
