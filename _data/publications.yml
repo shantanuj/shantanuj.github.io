@@ -8,20 +8,20 @@ papers:
       - "[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255.pdf)"
       - "[[Suppl.]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
       - "[[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
-    descript: "<ol style='margin-left:-1em;'><li>Introduces a top-down attention formulation to enable models to <i><b>'look again' and attend to salient objects or features</b></i> (across multiple levels of a model's hierarchy) based on higher-level activations that contain relatively semantically-richer task or contextual information.</li> 
-               <li>Improves performance on <i><b>multiple tasks</b></i> (in object recognition and localization) for <i><b>various architecture types</b></i> with few additional parameters and memory consumption.</li>
+    descript: "<ol style='margin-left:-1em;'><li>Introduces a top-down attention formulation to enable models to <i><b>'look again' and attend to salient objects or features</b></i> based on higher-level activations that contain relatively semantically-richer task or contextual information.</li> 
+               <li>Improves performance on <i><b>multiple tasks</b></i> (in object recognition and localization) for <i><b>various architecture types</b></i> with few additional parameters and memory consumption </li> (e.g. 5% better top-1 weakly supervised object localization accuracy for ResNet50 on ImageNet).
                <li>Also, makes models <i><b>more robust to changes in input resolution</b></i> and <i><b>reduces entropy of output activations </b></i>(suggesting enhanced feature selectivity; entropy and top-bottom feature co-activation analysis in supplemental).</li></ol>"
-    
-  - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
-    authors: "Shantanu Jaiswal, Liu Yan, Dongkyu Choi, Kenneth Kwok"
-    venue: "*arXiv preprint*, 2022."
-    teaser: pckr_teaser_2.png
+   
+- title: "Revealing the Illusion of Joint Multimodal Understanding in VideoQA Models"
+    authors: "Ishaan Rawal, Shantanu Jaiswal, Basura Fernando, and Cheston Tan"
+    venue: "*arXiv preprint*, 2023. Short version in *NeurIPS 2023 XAI in Action Workshop*."
+    teaser: quag_teaser.png
     links:
-      - "[[Paper]](https://arxiv.org/abs/2211.16822)"
-      - "[Code & data pending agency approval]"
-    descript: "<ol style='margin-left:-1em;'><li>Introduces a probabilistic-logic based representation scheme to encode world knowledge with <i><b>different 'certainty levels'</b></i> and perform <i><b>context-dependent non-monotonic inferences</b></i> (wherein likelihoods and/or inferences can change with newly provided contextual/situational knowledge). </li>
-                  <li>Also, introduces a <i><b>hierarchical conceptual ontology</b></i> to structure knowledge and incrementally increase semantic coverage through addition of <i><b>concept-specific knowledge and relations</b></i>.</li>
-                  <li>Demonstrates application of encoded knowledge for <i><b>more interpretable</b></i> passage-based <i><b>semantic parsing and question answering</b></i>.</li> 
+      - "[[Paper]](https://arxiv.org/abs/2306.08889)"
+      - "[[Short workshop paper]](https://openreview.net/pdf?id=bhvlGMbONN)"
+    descript: "<ol style='margin-left:-1em;'><li>Analyzes multimodal biases in videoQA models through a new <i><b>quadrant-averaging (QUAG) attentional probing method</b></i> and a <i><b>diagnostic benchmark (CLAVI) with temporal counterfactuals.</b></i></li> 
+                  <li>Notable finding 1: Model performances drastically drop for counterfactual temporal scenarios suggesting <b><i>lack of temporal understanding</b></i> and poor abilities in current videoQA models to jointly reason on video and language inputs.</li>
+                  <li>Notable finding 2: Model performances (on existing benchmarks) are maintained even after impaired (averaged) attention for text and visual modalities, suggesting current models <b>may exploit ``shortcuts"</b></i> to achieve competitive performances on existing benchmarks.</li> 
                   </ol>"
   
   - title: "What do CNNs gain by imitating the visual development of primate infants?"
@@ -38,6 +38,17 @@ papers:
                    <li>Growth strategy potentially allows <i><b>'coarse global' patterns</b></i> to be identified first and then <i><b>'finer' ones</b></i> later in a <i><b>more hierarchical</b></i> manner (visualization of induced filters during training in supplemental).</li></ol>"
     
 techprojects:
+    - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
+    authors: "Shantanu Jaiswal, Liu Yan, Dongkyu Choi, Kenneth Kwok"
+    venue: "*arXiv preprint*, 2022."
+    teaser: pckr_teaser_2.png
+    links:
+      - "[[Paper]](https://arxiv.org/abs/2211.16822)"
+      - "[Code & data pending agency approval]"
+    descript: "<ol style='margin-left:-1em;'><li>Introduces a probabilistic-logic based representation scheme to encode world knowledge with <i><b>different 'certainty levels'</b></i> and perform <i><b>context-dependent non-monotonic inferences</b></i> (wherein likelihoods and/or inferences can change with newly provided contextual/situational knowledge). </li>
+                  <li>Also, introduces a <i><b>hierarchical conceptual ontology</b></i> to structure knowledge and incrementally increase semantic coverage through addition of <i><b>concept-specific knowledge and relations</b></i>.</li>
+                  <li>Demonstrates application of encoded knowledge for <i><b>more interpretable</b></i> passage-based <i><b>semantic parsing and question answering</b></i>.</li> 
+                  </ol>"
   - title: "Domain adaptation techniques for aspect-based sentiment analysis"
     authors: "Shantanu Jaiswal (Final year undergraduate project)"
     teaser: da_fgs.png
