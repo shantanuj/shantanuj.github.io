@@ -20,8 +20,8 @@ papers:
       - "[[Preprint]](https://arxiv.org/abs/2306.08889)"
       - "[[Short workshop paper]](https://openreview.net/pdf?id=bhvlGMbONN)"
     descript: "<ol style='margin-left:-1em;'><li>Analyzes multimodal biases in videoQA models through a <i><b>quadrant-averaging (QUAG) attentional probing method</b></i> and a <i><b>diagnostic benchmark (CLAVI) with temporal counterfactuals.</b></i></li>
-               <li>Notable finding 1: Model performances drastically drop for counterfactual temporal scenarios (i.e. event sequences in video are swapped or questions are inversed) suggesting <i><b>lack of temporal understanding and joint multimodal (video-language) reasoning</b></i> in current videoQA models.</li>
-               <li>Notable finding 2: Model performances (on existing benchmarks) are maintained even after impaired (averaged) attention for text and visual modalities, suggesting current models <i><b>may exploit 'shortcuts'</b></i> to achieve competitive performances on existing benchmarks.</li></ol>"
+               <li>Model performances drastically drop for counterfactual temporal scenarios (i.e. event sequences in video are swapped or questions are inversed) suggesting <i><b>lack of joint multimodal (video-language) reasoning</b></i> and temporal understanding in current videoQA models.</li>
+               <li>Model performances (on existing benchmarks) are maintained even after impaired (averaged) attention for text and visual modalities, suggesting current models <i><b>may exploit 'shortcuts'</b></i> to achieve competitive performances on existing benchmarks.</li></ol>"
 
   - title: "What do CNNs gain by imitating the visual development of primate infants?"
     authors: "Shantanu Jaiswal, Dongkyu Choi, Basura Fernando"
