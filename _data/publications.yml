@@ -10,18 +10,7 @@ papers:
       - "[[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
     descript: "<ol style='margin-left:-1em;'><li>Introduces a top-down attention formulation to enable models to <i><b>'look again' and attend to salient objects or features</b></i> based on higher-level activations that contain relatively semantically-richer task or contextual information.</li> 
                <li>Improves performance on <i><b>multiple tasks</b></i> (in object recognition and localization) for <i><b>various architecture types</b></i> with few additional parameters and memory consumption </li> (e.g. 5% better top-1 weakly supervised object localization accuracy for ResNet50 on ImageNet).
-            v   <li>Also, makes models <i><b>more robust to changes in input resolution</b></i> and <i><b>reduces entropy of output activations </b></i>(suggesting enhanced feature selectivity; entropy and top-bottom feature co-activation analysis in supplemental).</li></ol>"
-
-  - title: "Revealing the Illusion of Joint Multimodal Understanding in VideoQA Models"
-    authors: "Ishaan Rawal, Shantanu Jaiswal, Basura Fernando, Cheston Tan"
-    venue: "*arXiv preprint*, 2023. Short version in *NeurIPS 2023 XAI in Action Workshop*."
-    teaser: quag_teaser.png
-    links:
-      - "[[Paper]](https://arxiv.org/abs/2306.08889)"
-      - "[[Short workshop paper]](https://openreview.net/pdf?id=bhvlGMbONN)"
-    descript: "<ol style='margin-left:-1em;'><li>Analyzes multimodal biases in videoQA models through a new <i><b>quadrant-averaging (QUAG) attentional probing method</b></i> and a <i><b>diagnostic benchmark (CLAVI) with temporal counterfactuals.</b></i></li> 
-               <li>Notable finding 1: Model performances drastically drop for counterfactual temporal scenarios suggesting <b><i>lack of temporal understanding</b></i> and poor abilities in current videoQA models to jointly reason on video and language inputs.</li>
-               <li>Notable finding 2: Model performances (on existing benchmarks) are maintained even after impaired (averaged) attention for text and visual modalities, suggesting current models <b><i>may exploit ``shortcuts"</b></i> to achieve competitive performances on existing benchmarks.</li></ol>"
+               <li>Also, makes models <i><b>more robust to changes in input resolution</b></i> and <i><b>reduces entropy of output activations </b></i>(suggesting enhanced feature selectivity; entropy and top-bottom feature co-activation analysis in supplemental).</li></ol>"
 
   - title: "What do CNNs gain by imitating the visual development of primate infants?"
     authors: "Shantanu Jaiswal, Dongkyu Choi, Basura Fernando"
