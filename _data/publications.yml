@@ -15,7 +15,7 @@ papers:
   - title: "Revealing the Illusion of Joint Multimodal Understanding in VideoQA Models"
     authors: "Ishaan Rawal, Shantanu Jaiswal, Basura Fernando, Cheston Tan"
     venue: "*arXiv preprint*, 2023. Short version in *NeurIPS 2023 XAI in Action Workshop*."
-    teaser: quag_teaser.png
+    teaser: quag_img2.png
     links:
       - "[[Preprint]](https://arxiv.org/abs/2306.08889)"
       - "[[Short workshop paper]](https://openreview.net/pdf?id=bhvlGMbONN)"
