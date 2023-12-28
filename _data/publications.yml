@@ -13,9 +13,9 @@ papers:
                <li>Also, makes models <i><b>more robust to changes in input resolution</b></i> and <i><b>reduces entropy of output activations </b></i>(suggesting enhanced feature selectivity; entropy and top-bottom feature co-activation analysis in supplemental).</li></ol>"
    
   - title: "Revealing the Illusion of Joint Multimodal Understanding in VideoQA Models"
-    authors: "Shantanu Jaiswal, Basura Fernando, and Cheston Tan"
-    venue: "In *arXiv preprint*, 2023."
-    teaser: quag_teaser.png
+    authors: "Ishaan Rawal, Shantanu Jaiswal, Basura Fernando, and Cheston Tan"
+    venue: "*arXiv preprint*, 2022."
+    teaser: pckr_teaser_2.png
     links:
       - "[[Paper]](https://arxiv.org/abs/2306.08889)"
       - "[[Short workshop paper]](https://openreview.net/pdf?id=bhvlGMbONN)"
