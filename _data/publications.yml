@@ -12,6 +12,18 @@ papers:
                <li>Improves performance on <i><b>multiple tasks</b></i> (in object recognition and localization) for <i><b>various architecture types</b></i> with few additional parameters and memory consumption </li> (e.g. 5% better top-1 weakly supervised object localization accuracy for ResNet50 on ImageNet).
                <li>Also, makes models <i><b>more robust to changes in input resolution</b></i> and <i><b>reduces entropy of output activations </b></i>(suggesting enhanced feature selectivity; entropy and top-bottom feature co-activation analysis in supplemental).</li></ol>"
 
+  - title: "TDAM: Top-Down Attention Module for Contextually-Guided Feature Selection in CNNs"
+    authors: "Shantanu Jaiswal, Basura Fernando, Cheston Tan"
+    venue: "In *European Conference on Computer Vision (ECCV)*, 2022."
+    teaser: tdam_teaser.png
+    links:
+      - "[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255.pdf)"
+      - "[[Suppl.]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255-supp.pdf)"
+      - "[[Code]](https://github.com/shantanuj/TDAM_Top_down_attention_module)"
+    descript: "<ol style='margin-left:-1em;'><li>Introduces a top-down attention formulation to enable models to <i><b>'look again' and attend to salient objects or features</b></i> based on higher-level activations that contain relatively semantically-richer task or contextual information.</li> 
+               <li>Improves performance on <i><b>multiple tasks</b></i> (in object recognition and localization) for <i><b>various architecture types</b></i> with few additional parameters and memory consumption </li> (e.g. 5% better top-1 weakly supervised object localization accuracy for ResNet50 on ImageNet).
+               <li>Also, makes models <i><b>more robust to changes in input resolution</b></i> and <i><b>reduces entropy of output activations </b></i>(suggesting enhanced feature selectivity; entropy and top-bottom feature co-activation analysis in supplemental).</li></ol>"
+
   - title: "What do CNNs gain by imitating the visual development of primate infants?"
     authors: "Shantanu Jaiswal, Dongkyu Choi, Basura Fernando"
     venue: "In *British Machine Vision Conference (BMVC)*, 2020."
