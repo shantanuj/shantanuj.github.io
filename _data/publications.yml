@@ -38,7 +38,7 @@ papers:
                    <li>Growth strategy potentially allows <i><b>'coarse global' patterns</b></i> to be identified first and then <i><b>'finer' ones</b></i> later in a <i><b>more hierarchical</b></i> manner (visualization of induced filters during training in supplemental).</li></ol>"
     
 techprojects:
-    - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
+  - title: "A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods"
     authors: "Shantanu Jaiswal, Liu Yan, Dongkyu Choi, Kenneth Kwok"
     teaser: pckr_teaser_2.png
     links:
