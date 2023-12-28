@@ -15,13 +15,13 @@ papers:
   - title: "Revealing the Illusion of Joint Multimodal Understanding in VideoQA Models"
     authors: "Ishaan Rawal, Shantanu Jaiswal, Basura Fernando, Cheston Tan"
     venue: "*arXiv preprint*, 2023. Short version in *NeurIPS 2023 XAI in Action Workshop*."
-    teaser: quag_img2.png
+    teaser: quag_teaser2.png
     links:
       - "[[Preprint]](https://arxiv.org/abs/2306.08889)"
       - "[[Short workshop paper]](https://openreview.net/pdf?id=bhvlGMbONN)"
-    descript: "<ol style='margin-left:-1em;'><li>Analyzes multimodal biases in videoQA models through a new <i><b>quadrant-averaging (QUAG) attentional probing method</b></i> and a <i><b>diagnostic benchmark (CLAVI) with temporal counterfactuals.</b></i></li> 
-               <li>Notable finding 1: Model performances drastically drop for counterfactual temporal scenarios suggesting <b><i>lack of temporal understanding</b></i> and poor abilities in current videoQA models to jointly reason on video and language inputs.</li>
-               <li>Notable finding 2: Model performances (on existing benchmarks) are maintained even after impaired (averaged) attention for text and visual modalities, suggesting current models <b><i>may exploit ``shortcuts"</b></i> to achieve competitive performances on existing benchmarks.</li></ol>"
+    descript: "<ol style='margin-left:-1em;'><li>Analyzes multimodal biases in videoQA models through a <i><b>quadrant-averaging (QUAG) attentional probing method</b></i> and a <i><b>diagnostic benchmark (CLAVI) with temporal counterfactuals.</b></i></li>
+               <li>Notable finding 1: Model performances drastically drop for counterfactual temporal scenarios (i.e. event sequences in video are swapped or questions are inversed) suggesting <i><b>lack of temporal understanding and joint multimodal (video-language) reasoning</b></i> in current videoQA models.</li>
+               <li>Notable finding 2: Model performances (on existing benchmarks) are maintained even after impaired (averaged) attention for text and visual modalities, suggesting current models <i><b>may exploit ``shortcuts"</b></i> to achieve competitive performances on existing benchmarks.</li></ol>"
 
   - title: "What do CNNs gain by imitating the visual development of primate infants?"
     authors: "Shantanu Jaiswal, Dongkyu Choi, Basura Fernando"
