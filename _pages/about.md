@@ -9,7 +9,7 @@ redirect_from:
 <h2 style="margin-top:0;"> About me </h2>
 Hello! I am a researcher at A*STAR Singapore's [Center for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar). 
 
-Broadly, my research interests are at the intersection of artificial intelligence and cognitive science, and the development of **more intelligent and reliable AI with human-level reasoning and learning capabilities**. At A*STAR, I have specifically been exploring the design of more effective scene understanding and reasoning methods by combining insights from relevant cognitive phenomena with machine learning techniques.
+Broadly, my research interests are at the intersection of computer vision, machine learning and cognitive science, with the goal of developing **more intelligent and reliable AI** that can **continually learn from real-world/embodied experiences** and that exhibits **human-like reasoning capabilities**. At A*STAR, I have specifically worked on designing more effective scene understanding and reasoning methods by combining insights from relevant cognitive phenomena with machine learning techniques.
 
 My CV is available [here](/cv/).
 
